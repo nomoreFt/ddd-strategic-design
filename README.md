@@ -121,4 +121,5 @@ docker compose -p kitchenpos up -d
 | 배달중 상태          |        DELIVERING        | 배달 주문이 배달 대행사를 통해 손님에게 배송되고 있는 상태.              |
 | 배달 완료된 상태       |         DELIVERED         | 배달 주문이 손님에게 도착하여 수령된 상태.                      |
 | 완료된 상태          |        COMPLETED         | 주문이 최종 완료된 상태. 매장 주문 시 테이블이 정리되는 단계.           |
+
 ## 모델링
